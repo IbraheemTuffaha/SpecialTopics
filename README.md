@@ -14,3 +14,12 @@ This repository will be used to submit assignments for the course: CS498 - SPECI
 - Add screenshots and word document.
 
 -Added on 10/10/2018.
+
+
+## WordCloud
+- Write +200 words about Universiry and Courses.
+- Generate a word cloud based on that text.
+
+-Added on 29/10/2018.
+
+
