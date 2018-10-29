@@ -1,0 +1,11 @@
+I started university in Damascus which was a great start for me.
+I mostly learned CPlusPlus programming language and took Math courses.
+The teaching in Damascus is much better than any other university in Jordan like JUST_, but the scientific research there is nothing compared to what is in JUST_.
+Learning the language CPlusPlus - which took 2 courses - was the start for me with programming, I loved programming ever since and worked on learning more until I found about ACM ICPC which is a programming contest that focuses on problem solving using algorithms and data structures.
+I invested a lot of time on ACM to improve my knowledge in Computer Science and my coding skills especially that such contests provide a way for individuals to improve on their own without the need for a teacher.
+I also found out about more contests such as IEEEXtreme which is a 24-hours programming contest, and I liked this style of contests more.
+The courses that I liked through my experience in college are CPlusPlus Programming Language, Linear Algebra, Abstract Algebra, Advanced Algorithms and Data structures.
+Other courses I did not really enjoy not because the teaching was as good as I hoped they would be.
+But what I liked when I came to JUST_ is the support you can find from the college in general, which is something you do not find much in other universities like Yarmouk.
+To be honest, the things I have learned throughout college can be learnt in only a year which makes me feel like I wasted my time, but I have met a lot of great people and have built great connections throughout the years which can be a fine consolation for me.
+These days I'm more interested in AI and Machine_Learning and Deep_Learning, because as we can see, the future is favoring AI over traditional methods in a lot of topics, that's why I'm taking courses on coursera about Machine_Learning and Deep_Learning which is now the hot topic in AI.
