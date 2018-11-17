@@ -1,5 +1,5 @@
 ID	Tweet	Affect Dimension	Intensity Class
-2017-En-30793	@david_garrett 2@2 @3 Quite a.b@w.com bro.t.1996@gmail.com https://stackoverflow.com/questions/4406389/if-else-in-a-list-comprehension saddened.....no US dates, no joyous anticipation of attending a DG concert (since 2014). Happy you are keeping busy.	joy	0: no joy can be inferred
+2017-En-30793	@david_garrett Quite saddened.....no US dates, no joyous anticipation of attending a DG concert (since 2014). Happy you are keeping busy.	joy	0: no joy can be inferred
 2017-En-30070	2 days until #GoPackGo and 23 days until #GoGipeGo..... I'm so excited! 	joy	3: high amount of joy can be inferred
 2017-En-30692	Positive #psychology research shows salespeople who score in the top 10% for #optimism have 88% &gt; sales than those in top 10% for pessimism.	joy	0: no joy can be inferred
 2017-En-31323	As the birds chirp and the cows moo we need to listen to the sound of nature to ensure that all is well.	joy	1: low amount of joy can be inferred

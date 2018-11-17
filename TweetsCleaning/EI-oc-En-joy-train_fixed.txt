@@ -1,5 +1,5 @@
 ID	Tweet	Intensity Class
-30793	tagaddr 2 2 tagaddr quit emailaddr emailaddr linkaddr sadden us date joyous anticip attend dg concert sinc 2014 happi keep busi	0
+30793	tagaddr quit sadden us date joyous anticip attend dg concert sinc 2014 happi keep busi	0
 30070	2 day gopackgo 23 day gogipego excit	3
 30692	posit psycholog research show salespeopl score top 10 optim 88 gt sale top 10 pessim	0
 31323	bird chirp cow moo need listen sound natur ensur well	1
