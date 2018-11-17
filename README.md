@@ -23,3 +23,11 @@ This repository will be used to submit assignments for the course: CS498 - SPECI
 -Added on 29/10/2018.
 
 
+## TweetsCleaning
+- Read tweets from csv file
+- Clean up the tweets
+- Save the result to csv file
+
+-Added on 17/11/2018.
+
+
