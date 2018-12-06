@@ -1,5 +1,5 @@
 # Special Topics Repo
-## Intoduction
+## Description
 This repository will be used to submit assignments for the course: CS498 - SPECIAL TOPICS IN COMPUTER APPLICATIONS( 1 ) in the first semester 2018-2019.
 
 ## Assignment 1
